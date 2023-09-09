@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "498133476967",
+    "project_id": "wiredcoffee-15498",
+    "storage_bucket": "wiredcoffee-15498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498133476967:android:a4c957b3ee2617791116c2",
+        "android_client_info": {
+          "package_name": "com.example.wiredcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498133476967-h62esbpkq2fgam3dhoppr6v140lpj523.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wiredcoffee",
+            "certificate_hash": "403c333f53b6d0d51121d10172d7c769ebd04434"
+          }
+        },
+        {
+          "client_id": "498133476967-knn8r33uphgbiqi7agcq9b2ck4t31ors.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlPlI6Rp2sJ1qnmIcbHyHzihf4E8M2xx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498133476967-knn8r33uphgbiqi7agcq9b2ck4t31ors.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "498133476967-0egs1scbms787rri2rub2cl571iku1ro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
